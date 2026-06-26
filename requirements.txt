@@ -1,1 +1,4 @@
-streamlit
+Plaintext
+openai
+pandas
+openpyxl
